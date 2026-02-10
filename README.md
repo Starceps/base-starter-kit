@@ -64,3 +64,4 @@ rutin 98
 1001
 depo 1001
 depo 2
+base 1
