@@ -165,3 +165,13 @@ contract Starceps8 {
         count *= count;
     }
 }
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Starceps9 {
+    uint256 public count;
+
+    function reset() public {
+        count = 1;
+    }
+}
