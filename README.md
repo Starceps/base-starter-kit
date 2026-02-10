@@ -71,3 +71,14 @@ bas 99
 starcepsbase 1
 starcepsbase 2
 starcepsbase 3
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Starceps1 {
+    uint256 public count;
+
+    function increment() public {
+        count++;
+    }
+}
+
