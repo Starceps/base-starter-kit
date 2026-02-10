@@ -82,3 +82,4 @@ contract Starceps1 {
     }
 }
 
+starceps 2
