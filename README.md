@@ -103,3 +103,13 @@ contract Starceps2 {
     }
 }
 Add Starceps3.sol with reset function
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Starceps4 {
+    uint256 public count;
+
+    function incrementBy(uint256 n) public {
+        count += n;
+    }
+}
