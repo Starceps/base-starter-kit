@@ -69,3 +69,4 @@ base 101
 base 100
 bas 99
 starcepsbase 1
+starcepsbase 2
