@@ -66,3 +66,4 @@ depo 1001
 depo 2
 base 1
 base 101
+base 100
