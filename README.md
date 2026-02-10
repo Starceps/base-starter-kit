@@ -92,3 +92,13 @@ starceps 8
 starceps 9
 starceps 10
 starceps 11
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Starceps2 {
+    uint256 public count;
+
+    function increment() public {
+        count += 2;
+    }
+}
