@@ -86,3 +86,4 @@ starceps 2
 starceps 3
 starceps 4
 starceps 5
+starceps 6
