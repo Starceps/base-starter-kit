@@ -102,3 +102,4 @@ contract Starceps2 {
         count += 2;
     }
 }
+Add Starceps3.sol with reset function
